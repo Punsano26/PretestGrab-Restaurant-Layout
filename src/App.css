@@ -1,0 +1,90 @@
+h1{
+  text-align: center;
+}
+.search{
+  text-align: center;
+}
+.card{
+  background-color: white;
+  display: flex;
+  flex-wrap: wrap;
+  color: black;
+  padding: 20px;
+  
+}
+
+.menu-1 {
+  background-color: white;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  margin-top: 20px;
+  padding-left: 15px;
+  margin: 20px;
+  box-shadow: 5px 10px #aaa7a7;
+}
+
+.menu-2 {
+  background-color: white;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  margin-top: 20px;
+  padding-left: 15px;
+  margin: 20px;
+  box-shadow: 5px 10px #aaa7a7;
+}
+.menu-3 {
+  background-color: white;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  margin-top: 20px;
+  padding-left: 15px;
+  margin: 20px;
+  box-shadow: 5px 10px #aaa7a7;
+}
+.menu-4 {
+  background-color: white;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  margin-top: 20px;
+  padding-left: 15px;
+  margin: 20px;
+  box-shadow: 5px 10px #aaa7a7;
+}
+.menu-5 {
+  background-color: white;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  margin-top: 20px;
+  padding-left: 15px;
+  margin: 20px;
+  box-shadow: 5px 10px #aaa7a7;
+}
+.menu-6 {
+  background-color: white;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  margin-top: 20px;
+  padding-left: 15px;
+  margin: 20px;
+  box-shadow: 5px 10px #aaa7a7;
+}
+
+
+
+.read-the-docs {
+  color: #888;
+}
+
+
